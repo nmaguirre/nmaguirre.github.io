@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Nazareno Aguirre
     - name: Date of Birth
-      value: 14th March 1879
+      value: 7th of June 1976 
     - name: Languages
-      value: English, German
+      value: Spanish, English 
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: King's College London, University of London, London, United Kingdom 
+      year: 2004
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Licenciado en Ciencias de la Computación
+      institution: University of Rio Cuarto, Rio Cuarto, Argentina
+      year: 1999
       description:
         - Description 1.
         - Description 2.

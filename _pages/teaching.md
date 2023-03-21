@@ -2,11 +2,30 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: My teaching activities.
 nav: true
-nav_order: 5
+nav_order: 1
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+My teaching activities at UNRC have been centred around courses on Algorithms and Data Structures. I also teach or have taught elective and graduate courses on Software Engineering, Concurrency, Foundations of Computer Science and Artificial Intelligence.
 
-Organize your courses by years, topics, or universities, however you like!
+Concretely, since 2003, I’ve taught the following courses:
+-Distributed and Outsourced Software Engineering
+-Algorithm Design Techniques
+-Data Structures and Algorithms
+-Algebraic Specification
+-Advanced Programming
+-Software Verification and Validation
+-Software Development using Design by Contract
+-Artificial Intelligence
+-Computing Analyst’s Final Project
+-Concurrent Program Design
+
+#### First Semester of 2023
+
+During the first semester of 2023 I'll be teaching a course on Concurrent Program Design. This is an elective course for the Licenciatura en Ciencias de la Computación degree, jointly taught with Germán Regis. Students willing to take the course can contact me or Germián via email, for further details.
+
+#### Second Semester of 2023 
+
+To be defined.
+
