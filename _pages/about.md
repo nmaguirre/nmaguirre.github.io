@@ -22,7 +22,16 @@ social: true  # includes social icons at the bottom of the page
 
 I am an Associate Professor at the [Departamento de Computación](https://dc.exa.unrc.edu.ar), [FCEFQyN](https://www.exa.unrc.edu.ar), [Universidad Nacional de Río Cuarto](https://www.unrc.edu.ar), and an Independent Researcher at [Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)](https://conicet.gov.ar).
 
-I graduated as Analista en Computación in 1997 and as Licenciado en Ciencias de la Computación in 1999, both at the [Departamento de Computación](https://dc.exa.unrc.edu.ar), [Facultad de Ciencias Exactas, Físico-Químicas y Naturales](https://www.exa.unrc.edu.ar), [Universidad Nacional de Río Cuarto](https://www.unrc.edu.ar). In 2004 I got my PhD at [King's College Londoni](https://www.kcl.ac.uk), University of London.
+[//]: # (I graduated as Analista en Computación in 1997 and as Licenciado en Ciencias de la Computación in 1999, both at the [Departamento de Computación](https://dc.exa.unrc.edu.ar), [Facultad de Ciencias Exactas, Físico-Químicas y Naturales](https://www.exa.unrc.edu.ar), [Universidad Nacional de Río Cuarto](https://www.unrc.edu.ar). In 2004 I got my PhD at [King's College London](https://www.kcl.ac.uk), University of London.)
 
-My main research interests correspond to Software Engineering, in particular Formal Methods for Software Development. I currently work on formal analyses of software based on SAT solving, including test generation, bounded verification and program repair, and on formal foundations of specification languages for component based systems. The main aim of my research is to help build reliable quality software.
+My main research interests correspond to Software Engineering, in particular Formal Methods for Software Development. I currently work on formal analyses of software based on SAT solving, including specification inference, test generation, bounded verification and program repair. The main aim of my research is to help build reliable quality software.
+
+#### Current and upcoming service
+
+* Head of the PhD Programme in Computing at the [Faculty of Mathematics, Physics, Astronomy and Computing (FAMAF)](https://famaf.unc.edu.ar), University of Cordoba, Argentina 
+* Coordinator of the Informatics, Electronics and Communications Commission at [Argentina’s National Agency for the Promotion of Research, Technological Development and Innovation (Agencia I+D+i)](https://agencia.gob.ar)
+* Program Committe member for the [International Symposium on Software Testing and Analysis ISSTA 2023](https://https://conf.researchr.org/home/issta-2023) (main research track)
+* Program Committe member for the [International Symposium on Software Testing, Verification and Validation ICST 2023](https://conf.researchr.org/home/icst-2023) (main research track)
+
+
 
