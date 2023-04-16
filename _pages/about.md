@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Associate Professor (UNRC). Independent Researcher (CONICET). 
+subtitle: Associate Professor (UNRC). Independent Researcher (CONICET). Visiting Associate Professor (GTIIT).
 
 profile:
   align: right
@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Associate Professor at the [Departamento de Computación](https://dc.exa.unrc.edu.ar), [FCEFQyN](https://www.exa.unrc.edu.ar), [Universidad Nacional de Río Cuarto](https://www.unrc.edu.ar), and an Independent Researcher at [Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)](https://conicet.gov.ar).
+I am an Associate Professor at the [Departamento de Computación](https://dc.exa.unrc.edu.ar), [FCEFQyN](https://www.exa.unrc.edu.ar), [Universidad Nacional de Río Cuarto](https://www.unrc.edu.ar), and an Independent Researcher at [Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)](https://conicet.gov.ar). I am also a Visiting Associate Professor at [Guangdong Technion - Israel Institute of Technology](https://www.gtiit.edu.cn), Shantou, China.
 
 [//]: # (I graduated as Analista en Computación in 1997 and as Licenciado en Ciencias de la Computación in 1999, both at the [Departamento de Computación](https://dc.exa.unrc.edu.ar), [Facultad de Ciencias Exactas, Físico-Químicas y Naturales](https://www.exa.unrc.edu.ar), [Universidad Nacional de Río Cuarto](https://www.unrc.edu.ar). In 2004 I got my PhD at [King's College London](https://www.kcl.ac.uk), University of London.)
 
