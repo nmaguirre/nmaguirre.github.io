@@ -35,6 +35,7 @@ The students and postdocs that I currently supervise and had supervised are deta
 ##### Undergraduate Students
 
 - Agustín Nolasco (co-supervised with Facundo Molina)
+- Claudio Dosantos (co-supervised with Facundo Molina)
 
 ---
 
