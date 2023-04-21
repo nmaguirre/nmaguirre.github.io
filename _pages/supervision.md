@@ -30,6 +30,7 @@ The students and postdocs that I currently supervise and had supervised are deta
 - Marcelo Arroyo
 - Sonia Permigiani
 - Gastón Scilingo
+- Ariel Godio (co-supervised with Marcelo Frias)
 
 --- 
 ##### Undergraduate Students
