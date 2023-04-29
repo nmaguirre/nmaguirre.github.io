@@ -1,8 +1,9 @@
 ---
 layout: post
-title: New CONICET researchers at MFIS
-date: 2022-11-26 
+date: 2023-04-27 
 inline: true
 ---
 
-MFIS has three new [CONICET](https://conicet.gov.ar) assistant researchers: Simón Gutiérrez Brida, Facundo Molina, and Germán Regis. 
+Nazareno Aguirre becomes Associate Editor of [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32).
+
+

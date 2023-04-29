@@ -30,6 +30,7 @@ My main research interests correspond to Software Engineering, in particular For
 
 * Head of the PhD Programme in Computing at the [Faculty of Mathematics, Physics, Astronomy and Computing (FAMAF)](https://www.famaf.unc.edu.ar), University of Cordoba, Argentina 
 * Coordinator of the Informatics, Electronics and Communications Commission at [Argentina’s National Agency for the Promotion of Research, Technological Development and Innovation (Agencia I+D+i)](https://www.argentina.gob.ar/ciencia/agencia)
+* Associate Editor of [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32) 
 * Program Committe member for the [International Symposium on Software Testing and Analysis ISSTA 2023](https://conf.researchr.org/home/issta-2023) (main research track)
 * Program Committe member for the [International Symposium on Software Testing, Verification and Validation ICST 2023](https://conf.researchr.org/home/icst-2023) (main research track)
 * Program Committe member for the Tutorials Track of the [ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ESEC/FSE 2023](https://2023.esec-fse.org) 
