@@ -34,7 +34,7 @@ My main research interests correspond to Software Engineering, in particular For
 * Program Committe member for the [International Symposium on Software Testing and Analysis ISSTA 2023](https://conf.researchr.org/home/issta-2023) (main research track)
 * Program Committe member for the [International Symposium on Software Testing, Verification and Validation ICST 2023](https://conf.researchr.org/home/icst-2023) (main research track)
 * Program Committe member for the Tutorials Track of the [ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ESEC/FSE 2023](https://2023.esec-fse.org) 
-* Program Committe member for the International Symposium on Software Testing and Analysis ISSTA 2024 (main research track)
-
+* Program Committe member for the [International Symposium on Software Testing and Analysis ISSTA 2024](https://conf.researchr.org/home/issta-2024) (main research track)
+* Program Committe member for the [International Conference on Software Engineering ICSE 2025](https://conf.researchr.org/home/icse-2025) (main research track)
 
 
