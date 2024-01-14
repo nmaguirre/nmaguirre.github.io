@@ -18,39 +18,43 @@ The students and postdocs that I currently supervise and had supervised are deta
 --- 
 ##### Assistant Researchers
 
-- Renzo Degiovanni (on leave, pursuing a postdoc at SnT University of Luxembourg, Luxembourg)
-- Simón Gutiérrez Brida
-- Facundo Molina (on leave, pursuing a postdoc at IMDEA Software, Madrid, Spain)
-- Pablo Ponzio
-- Germán Regis
+* Renzo Degiovanni (on leave, pursuing a postdoc at SnT University of Luxembourg, Luxembourg)
+* Simón Gutiérrez Brida
+* Facundo Molina (on leave, pursuing a postdoc at IMDEA Software, Madrid, Spain)
+* Germán Regis
 
 --- 
 ##### PhD Students
 
-- Marcelo Arroyo
-- Sonia Permigiani
-- Gastón Scilingo
-- Ariel Godio (co-supervised with Marcelo Frias)
+* Marcelo Arroyo
+* Sonia Permigiani
+* Gastón Scilingo
+* Ariel Godio (co-supervised with Marcelo Frias)
 
 --- 
 ##### Undergraduate Students
 
-- Agustín Nolasco (co-supervised with Facundo Molina)
-- Claudio Dosantos (co-supervised with Facundo Molina)
+* Agustín Nolasco (co-supervised with Facundo Molina)
+* Claudio Dosantos (co-supervised with Facundo Molina)
 
 ---
 
 #### Previous supervision
 
 ---
+##### Former Assistant Researchers
+
+* Pablo Ponzio (currently Adjunct Researcher at CONICET, Argentina)
+
+---
 ##### Former PhD Students
 
-- Araceli Acosta 
-- Valeria Bengolea
-- Renzo Degiovanni
-- Simón Gutiérrez Brida
-- Facundo Molina
-- Pablo Ponzio
-- Germán Regis
+* Araceli Acosta (currently an Assistant Professor at FAMAF, University of Córdoba, Argentina)
+* Valeria Bengolea (currently an Assistant Professor at the University of Río Cuarto, Argentina)
+* Renzo Degiovanni (currently a postdoc at SnT, University of Luxembourg, Luxembourg)
+* Simón Gutiérrez Brida (currently an Assistant Researcher at CONICET, Argentina)
+* Facundo Molina (currently a postdoc a IMDEA Software, Madrid, Spain)
+* Pablo Ponzio (currently an Adjunct Researcher at CONICET and Assistant Professor at the University of Río Cuarto, Argentina)
+* Germán Regis (currently an Assistant Researcher at CONICET and Assistant Professor at the University of Río Cuarto, Argentina)
 
 ---
