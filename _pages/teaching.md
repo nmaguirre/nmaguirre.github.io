@@ -9,23 +9,24 @@ nav_order: 1
 
 My teaching activities at UNRC have been centred around courses on Algorithms and Data Structures. I also teach or have taught elective and graduate courses on Software Engineering, Concurrency, Foundations of Computer Science and Artificial Intelligence.
 
-Concretely, since 2003, I’ve taught the following courses:
--Distributed and Outsourced Software Engineering
--Algorithm Design Techniques
--Data Structures and Algorithms
--Algebraic Specification
--Advanced Programming
--Software Verification and Validation
--Software Development using Design by Contract
--Artificial Intelligence
--Computing Analyst’s Final Project
--Concurrent Program Design
+Concretely, in the last couple of decades I’ve taught the following courses:
+* Distributed and Outsourced Software Engineering
+* Algorithm Design Techniques
+* Data Structures and Algorithms
+* Algebraic Specification
+* Advanced Programming
+* Software Verification and Validation
+* Software Development using Design by Contract
+* Artificial Intelligence
+* Computing Analyst’s Final Project
+* Concurrent Program Design
+* Concurrency
 
-#### First Semester of 2023
+#### First Semester of 2024
 
-During the first semester of 2023 I'll be teaching a course on Concurrent Program Design. This is an elective course for the Licenciatura en Ciencias de la Computación degree, jointly taught with Germán Regis. Students willing to take the course can contact me or Germián via email, for further details.
+During the first semester of 2024 I'll be teaching _"Introduction to Algorithms"_, the introductory course on programming for the _Licenciatura en Ciencias de la Computación_ programme. The course will cover introductory programming concepts, formal program specification, and basics of object orientation. It will follow an "objects first" approach. 
 
-#### Second Semester of 2023 
+#### Second Semester of 2024 
 
 To be defined.
 
