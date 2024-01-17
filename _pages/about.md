@@ -26,16 +26,17 @@ I am an Associate Professor at the [Departamento de Computación](https://dc.exa
 
 My main research interests correspond to Software Engineering, in particular Formal Methods for Software Development. I currently work on formal analyses of software based on SAT solving, including specification inference, test generation, bounded verification and program repair. The main aim of my research is to help build reliable quality software.
 
-#### Current and upcoming service
+#### Recent and upcoming service
 
 * Head of the PhD Programme in Computing at the [Faculty of Mathematics, Physics, Astronomy and Computing (FAMAF)](https://www.famaf.unc.edu.ar), University of Cordoba, Argentina 
 * Coordinator of the Informatics, Electronics and Communications Commission at [Argentina’s National Agency for the Promotion of Research, Technological Development and Innovation (Agencia I+D+i)](https://www.argentina.gob.ar/ciencia/agencia)
 * Associate Editor of [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32) 
-* Program Committe member for the [International Symposium on Software Testing and Analysis ISSTA 2023](https://conf.researchr.org/home/issta-2023) (main research track)
-* Program Committe member for the [International Symposium on Software Testing, Verification and Validation ICST 2023](https://conf.researchr.org/home/icst-2023) (main research track)
-* Program Committe member for the Tutorials Track of the [ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ESEC/FSE 2023](https://2023.esec-fse.org) 
-* Program Committe member for the [International Symposium on Software Testing, Verification and Validation ICST 2024](https://conf.researchr.org/home/icst-2024) (main research track)
-* Program Committe member for the [International Symposium on Software Testing and Analysis ISSTA 2024](https://conf.researchr.org/home/issta-2024) (main research track)
 * Program Committe member for the [International Conference on Software Engineering ICSE 2025](https://conf.researchr.org/home/icse-2025) (main research track)
+* Program Committe member for the [International Symposium on Software Testing and Analysis ISSTA 2024](https://conf.researchr.org/home/issta-2024) (main research track)
+* Program Committe member for the [International Symposium on Software Testing, Verification and Validation ICST 2024](https://conf.researchr.org/home/icst-2024) (main research track)
+* Program Committe member for the [International Conference on Rigorous State Based Methods ABZ 2024](https://abz-conf.org/site/2024/) (main research track)
+* Program Committe member for the Tutorials Track of the [ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ESEC/FSE 2023](https://2023.esec-fse.org) 
+* Program Committe member for the [International Symposium on Software Testing, Verification and Validation ICST 2023](https://conf.researchr.org/home/icst-2023) (main research track)
+* Program Committe member for the [International Symposium on Software Testing and Analysis ISSTA 2023](https://conf.researchr.org/home/issta-2023) (main research track)
 
 
