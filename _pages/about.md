@@ -26,7 +26,7 @@ I am an Associate Professor at the [Departamento de Computación](https://dc.exa
 
 My main research interests correspond to Software Engineering, in particular Formal Methods for Software Development. I currently work on formal analyses of software based on SAT solving, including specification inference, test generation, bounded verification and program repair. The main aim of my research is to help build reliable quality software.
 
-#### Recent and upcoming service
+#### Current and upcoming service
 
 * Head of the PhD Programme in Computing at the [Faculty of Mathematics, Physics, Astronomy and Computing (FAMAF)](https://www.famaf.unc.edu.ar), University of Cordoba, Argentina 
 * Coordinator of the Informatics, Electronics and Communications Commission at [Argentina’s National Agency for the Promotion of Research, Technological Development and Innovation (Agencia I+D+i)](https://www.argentina.gob.ar/ciencia/agencia)
