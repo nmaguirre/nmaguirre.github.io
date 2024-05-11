@@ -18,7 +18,7 @@ The students and postdocs that I currently supervise and had supervised are deta
 --- 
 ##### Assistant Researchers
 
-* Renzo Degiovanni (on leave, pursuing a postdoc at SnT University of Luxembourg, Luxembourg)
+* Renzo Degiovanni (on leave, currently a Senior R&T Associate at the Luxembourg Institute of Science and Technology, Luxembourg)
 * Simón Gutiérrez Brida
 * Facundo Molina (on leave, pursuing a postdoc at IMDEA Software, Madrid, Spain)
 * Germán Regis
@@ -51,7 +51,7 @@ The students and postdocs that I currently supervise and had supervised are deta
 
 * Araceli Acosta (currently an Assistant Professor at FAMAF, University of Córdoba, Argentina)
 * Valeria Bengolea (currently an Assistant Professor at the University of Río Cuarto, Argentina)
-* Renzo Degiovanni (currently a postdoc at SnT, University of Luxembourg, Luxembourg)
+* Renzo Degiovanni (currently a Senior R&T Associate at LIST, Luxembourg)
 * Simón Gutiérrez Brida (currently an Assistant Researcher at CONICET, Argentina)
 * Facundo Molina (currently a postdoc a IMDEA Software, Madrid, Spain)
 * Pablo Ponzio (currently an Adjunct Researcher at CONICET and Assistant Professor at the University of Río Cuarto, Argentina)
