@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-05-27 
+date: 2024-07-02 
 inline: true
 ---
 
-The paper *“BEAPI: A Tool for Bounded Exhaustive Input Generation from APIs"* (by M. Politano, V. Bengolea, F. Molina, N. Aguirre, M. Frias and P. Ponzio) has been accepted for publication at the Software Track of the [Science of Computer Programming Journal](https://www.sciencedirect.com/journal/science-of-computer-programming).
+I am very happy to announce that the [ACM Special Interest Group on Software Engineering (SIGSOFT)](https://www2.sigsoft.org) will be sponsoring our Summer School on Informatics RIO 2025 through a SIGSOFT financial support grant for summer/winter schools.
 
