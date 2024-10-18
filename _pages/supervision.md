@@ -30,12 +30,14 @@ The students and postdocs that I currently supervise and had supervised are deta
 * Sonia Permigiani
 * Gastón Scilingo
 * Ariel Godio (co-supervised with Marcelo Frias)
+* Agustín Nolasco (co-supervised with Facundo Molina)
 
 --- 
 ##### Undergraduate Students
 
-* Agustín Nolasco (co-supervised with Facundo Molina)
 * Claudio Dosantos (co-supervised with Facundo Molina)
+* Brenda Dichiara (co-supervised with Valeria Bengolea)
+* Lucio Mansilla (co-supervised with Pablo Ponzio)
 
 ---
 
