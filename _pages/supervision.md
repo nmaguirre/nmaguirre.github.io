@@ -18,10 +18,9 @@ The students and postdocs that I currently supervise and had supervised are deta
 --- 
 ##### Assistant Researchers
 
-* Renzo Degiovanni (on leave, currently a Senior R&T Associate at the Luxembourg Institute of Science and Technology, Luxembourg)
 * Simón Gutiérrez Brida
-* Facundo Molina (on leave, pursuing a postdoc at IMDEA Software, Madrid, Spain)
 * Germán Regis
+* Facundo Molina (on leave, pursuing a postdoc at IMDEA Software, Madrid, Spain)
 
 --- 
 ##### PhD Students
