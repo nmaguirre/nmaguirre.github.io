@@ -34,10 +34,6 @@ My main research interests correspond to Software Engineering, in particular For
 * Program Committe member for the [International Conference on Software Engineering ICSE 2025](https://conf.researchr.org/home/icse-2025) (main research track)
 * Program Committe member for the [International Symposium on Software Testing and Analysis ISSTA 2025](https://conf.researchr.org/home/issta-2025) (main research track)
 * Program Committe member for the Testing Tools and Data Showcase Track of the [International Conference on Software Testing, Verification and Validation ICST 2025](https://conf.researchr.org/home/icst-2025)
-* Program Committe member for the [International Symposium on Software Testing and Analysis ISSTA 2024](https://conf.researchr.org/home/issta-2024) (main research track)
-* Program Committe member for the [International Symposium on Software Testing, Verification and Validation ICST 2024](https://conf.researchr.org/home/icst-2024) (main research track)
-* Program Committe member for the [International Conference on Rigorous State Based Methods ABZ 2024](https://abz-conf.org/site/2024/) (main research track)
-* Program Committe member for the New Ideas and Emerging Results Track of the [International Conference on Automated Software Engineering ASE 2024](https://conf.researchr.org/home/ase-2024) 
-* Program Committe member for the Posters Track of the [ACM International Conference on the Foundations of Software Engineering FSE 2024](https://2024.esec-fse.org) 
+* Program Committe member for the New Ideas and Emerging Results Track of the [International Conference on Automated Software Engineering ASE 2025](https://conf.researchr.org/home/ase-2025) 
 
 
