@@ -36,4 +36,3 @@ My main research interests correspond to Software Engineering, in particular For
 * Program Committe member for the Testing Tools and Data Showcase Track of the [International Conference on Software Testing, Verification and Validation ICST 2025](https://conf.researchr.org/home/icst-2025)
 * Program Committe member for the New Ideas and Emerging Results Track of the [International Conference on Automated Software Engineering ASE 2025](https://conf.researchr.org/track/ase-2025/ase-2025-nier-track) 
 
-
