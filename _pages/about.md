@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Associate Professor (UNRC). Independent Researcher (CONICET). Visiting Associate Professor (GTIIT).
+subtitle: Full Professor (UNRC). Independent Researcher (CONICET). Visiting Professor (GTIIT).
 
 profile:
   align: right
@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Associate Professor at the [Departamento de Computación](https://dc.exa.unrc.edu.ar), [FCEFQyN](https://www.exa.unrc.edu.ar), [Universidad Nacional de Río Cuarto](https://www.unrc.edu.ar), and an Independent Researcher at [Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)](https://conicet.gov.ar). I am also a Visiting Associate Professor at [Guangdong Technion - Israel Institute of Technology](https://www.gtiit.edu.cn), Shantou, China.
+I am a Full Professor at the [Departamento de Computación](https://dc.exa.unrc.edu.ar), [FCEFQyN](https://www.exa.unrc.edu.ar), [Universidad Nacional de Río Cuarto](https://www.unrc.edu.ar), and an Independent Researcher at [Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)](https://conicet.gov.ar). I am also a Visiting Professor at [Guangdong Technion - Israel Institute of Technology](https://www.gtiit.edu.cn), Shantou, China.
 
 [//]: # (I graduated as Analista en Computación in 1997 and as Licenciado en Ciencias de la Computación in 1999, both at the [Departamento de Computación](https://dc.exa.unrc.edu.ar), [Facultad de Ciencias Exactas, Físico-Químicas y Naturales](https://www.exa.unrc.edu.ar), [Universidad Nacional de Río Cuarto](https://www.unrc.edu.ar). In 2004 I got my PhD at [King's College London](https://www.kcl.ac.uk), University of London.)
 
@@ -34,5 +34,10 @@ My main research interests correspond to Software Engineering, in particular For
 * Program Committe member for the [International Conference on Software Engineering ICSE 2025](https://conf.researchr.org/home/icse-2025) (main research track)
 * Program Committe member for the [International Symposium on Software Testing and Analysis ISSTA 2025](https://conf.researchr.org/home/issta-2025) (main research track)
 * Program Committe member for the Testing Tools and Data Showcase Track of the [International Conference on Software Testing, Verification and Validation ICST 2025](https://conf.researchr.org/home/icst-2025)
-* Program Committe member for the New Ideas and Emerging Results Track of the [International Conference on Automated Software Engineering ASE 2025](https://conf.researchr.org/track/ase-2025/ase-2025-nier-track) 
+* Program Committe member for the [International Symposium on Software Testing and Analysis ISSTA 2024](https://conf.researchr.org/home/issta-2024) (main research track)
+* Program Committe member for the [International Symposium on Software Testing, Verification and Validation ICST 2024](https://conf.researchr.org/home/icst-2024) (main research track)
+* Program Committe member for the [International Conference on Rigorous State Based Methods ABZ 2024](https://abz-conf.org/site/2024/) (main research track)
+* Program Committe member for the New Ideas and Emerging Results Track of the [International Conference on Automated Software Engineering ASE 2024](https://conf.researchr.org/home/ase-2024) 
+* Program Committe member for the Posters Track of the [ACM International Conference on the Foundations of Software Engineering FSE 2024](https://2024.esec-fse.org) 
+
 
