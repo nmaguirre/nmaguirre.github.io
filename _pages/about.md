@@ -2,24 +2,37 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Full Professor (UNRC). Independent Researcher (CONICET). Visiting Professor (GTIIT).
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: >
+    <p>Oficina A11.D</p>
+    <p>Departamento de Computación, FCEFQyN, UNRC</p>
+    <p>Ruta Nacional No. 36 Km 601</p>
+    <p>Río Cuarto (5800), Córdoba, Argentina</p>
+  Phone: +54 (0)358 4676235
 
-news: true # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Full Professor at the [Departamento de Computación](https://dc.exa.unrc.edu.ar/), [FCEFQyN](https://www.exa.unrc.edu.ar), [Universidad Nacional de Río Cuarto](https://www.unrc.edu.ar), and an Independent Researcher at [Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)](https://conicet.gov.ar). I am also a Visiting Professor at [Guangdong Technion - Israel Institute of Technology](https://www.gtiit.edu.cn), Shantou, China.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+[//]: # (I graduated as Analista en Computación in 1997 and as Licenciado en Ciencias de la Computación in 1999, both at the [Departamento de Computación](https://dc.exa.unrc.edu.ar), [Facultad de Ciencias Exactas, Físico-Químicas y Naturales](https://www.exa.unrc.edu.ar), [Universidad Nacional de Río Cuarto](https://www.unrc.edu.ar). In 2004 I got my PhD at [King's College London](https://www.kcl.ac.uk), University of London.)
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My main research interests correspond to Software Engineering, in particular Formal Methods for Software Development. I currently work on formal analyses of software based on SAT solving, including specification inference, test generation, bounded verification and program repair. The main aim of my research is to help build reliable quality software.
+
+#### Current and upcoming service
+
+* Coordinator of the Informatics, Electronics and Communications Commission at [Argentina’s National Agency for the Promotion of Research, Technological Development and Innovation (Agencia I+D+i)](https://www.argentina.gob.ar/ciencia/agencia)
+* Associate Editor of [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32) 
+* Program Committe member for the [International Conference on Software Engineering ICSE 2025](https://conf.researchr.org/home/icse-2025) (main research track)
+* Program Committe member for the [International Symposium on Software Testing and Analysis ISSTA 2025](https://conf.researchr.org/home/issta-2025) (main research track)
+* Program Committe member for the [International Conference on Automated Software Engineering ASE 2025](https://conf.researchr.org/home/ase-2025) (main research track)
+* Program Committe member for the Testing Tools and Data Showcase Track of the [International Conference on Software Testing, Verification and Validation ICST 2025](https://conf.researchr.org/home/icst-2025)
+* Program Committe member for the New Ideas and Emerging Results Track of the [International Conference on Automated Software Engineering ASE 2025](https://conf.researchr.org/home/ase-2025) 
+
