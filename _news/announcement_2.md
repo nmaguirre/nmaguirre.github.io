@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2023-04-27 
+date: 2024-07-02 
 inline: true
 ---
 
-Nazareno Aguirre becomes Associate Editor of [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32).
-
+I am very happy to announce that the [ACM Special Interest Group on Software Engineering (SIGSOFT)](https://www2.sigsoft.org) will be sponsoring our Summer School on Informatics RIO 2025 through a SIGSOFT financial support grant for summer/winter schools.
 

@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2023-09-25 
+date: 2024-08-30 
 inline: true
 ---
 
-The research paper *“Enabling Efficient Assertion Inference"* (by A. Garg, R. Degiovanni, F. Molina, M. Cordy, N. Aguirre, M. Papadakis, and Y. Le Traon) has been accepted for publication at the [34th IEEE International Symposium on Software Reliability Engineering](https://issre.github.io/2023/).
-
+The paper *“An Empirical Study on the Suitability of Test-based Patch Acceptance Criteria"* (by L. Zemín, A. Godio, C. Cornejo, R. Degiovanni, S. Gutiérrez Brida, G. Regis, N. Aguirre and M. Frias) has been accepted for publication at the [ACM Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem). 

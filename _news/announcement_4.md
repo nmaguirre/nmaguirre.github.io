@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2023-03-31 
+date: 2024-06-08 
 inline: true
 ---
 
-The research paper *“Automated Repair of Unrealisable LTL Specifications Guided by Model Counting"* (by M. Brizzio, R. Degiovanni, M. Cordy, M. Papadakis, S. Sánchez and N. Aguirre) has been accepted for publication at the [Genetic and Evolutionary Computation Conference GECCO 2023](https://gecco-2023.sigevo.org/HomePage).
+The paper *“BEAPI: A tool for bounded exhaustive input generation from APIs"* (by M. Politano, V. Bengolea, F. Molina, N. Aguirre, M. Frias, and P. Ponzio) has been published as original software publication at [Elsevier's Science of Computer Programming](https://www.sciencedirect.com/science/article/pii/S0167642324000765?dgcid=author).
+
 
