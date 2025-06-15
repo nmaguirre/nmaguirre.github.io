@@ -29,7 +29,7 @@ My main research interests correspond to Software Engineering, in particular For
 #### Current and upcoming service
 
 * Coordinator of the Informatics, Electronics and Communications Commission at [Argentina’s National Agency for the Promotion of Research, Technological Development and Innovation (Agencia I+D+i)](https://www.argentina.gob.ar/ciencia/agencia)
-* Associate Editor of [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32) 
+* Associate Editor of [IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts) 
 * Program Committe member for the [International Conference on Software Engineering ICSE 2025](https://conf.researchr.org/home/icse-2025) (main research track)
 * Program Committe member for the [International Symposium on Software Testing and Analysis ISSTA 2025](https://conf.researchr.org/home/issta-2025) (main research track)
 * Program Committe member for the [International Conference on Automated Software Engineering ASE 2025](https://conf.researchr.org/home/ase-2025) (main research track)
