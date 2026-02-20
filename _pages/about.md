@@ -30,12 +30,8 @@ My main research interests lie in the field of Software Engineering, in particul
 
 * Coordinator of the Informatics, Electronics and Communications Commission at [Argentina’s National Agency for the Promotion of Research, Technological Development and Innovation (Agencia I+D+i)](https://www.argentina.gob.ar/ciencia/agencia)
 * Associate Editor of [IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts) 
-* Program Committee member for the [International Conference on Software Engineering ICSE 2025](https://conf.researchr.org/home/icse-2025) (main research track)
-* Program Committee member for the [International Symposium on Software Testing and Analysis ISSTA 2025](https://conf.researchr.org/home/issta-2025) (main research track)
-* Program Committee member for the [International Conference on Automated Software Engineering ASE 2025](https://conf.researchr.org/home/ase-2025) (main research track)
-* Program Committee member for the Testing Tools and Data Showcase Track of the [International Conference on Software Testing, Verification and Validation ICST 2025](https://conf.researchr.org/home/icst-2025)
-* Program Committee member for the New Ideas and Emerging Results Track of the [International Conference on Automated Software Engineering ASE 2025](https://conf.researchr.org/home/ase-2025) 
-* Program Committee member for the Industry Showcase Track of the [International Conference on Automated Software Engineering ASE 2025](https://conf.researchr.org/home/ase-2025) 
 * Program Committee member for the [Ibero-American Conference on Software Engineering CIbSE 2026](https://conf.researchr.org/home/cibse-2026) (main track)
 * Program Committee member for the Research Track of the [International Conference on Software Testing, Verification and Validation ICST 2026](https://conf.researchr.org/home/icst-2026)
+* Program Committee member for the [International Symposium on Software Testing and Analysis ISSTA 2026](https://conf.researchr.org/home/issta-2026) (main research track)
+* Program Committee member for the [International Conference on Automated Software Engineering ASE 2026](https://conf.researchr.org/home/ase-2026) (main research track)
 
