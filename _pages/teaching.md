@@ -22,11 +22,11 @@ Concretely, in the last couple of decades I’ve taught the following courses:
 * Concurrent Program Design
 * Concurrency
 
-#### First Semester of 2024
+#### First Semester of 2026
 
-During the first semester of 2024 I taught _"Introduction to Algorithms"_, the introductory course on programming for the _Licenciatura en Ciencias de la Computación_ programme. The course covered introductory programming concepts, formal program specification, and basics of object orientation. It followed an "objects first" approach. 
+During the first semester of 2026 I taught _"Introduction to Algorithms"_, the introductory course on programming for the _Licenciatura en Ciencias de la Computación_ programme. The course covered introductory programming concepts, formal program specification, and basics of object orientation. It followed an "objects first" approach. 
 
-#### Second Semester of 2024 
+#### Second Semester of 2026 
 
-During the second semester of 2024 I'll be teaching _"Introduction to Programming for AI"_, the introductory course on programming for the _Diplomatura Superior en Inteligencia Artificial_ programme. The course will cover introductory programming concepts, data definition and processing, basics of machine learning, and the evaluation of machine learning models. 
+During the second semester of 2026 I'm teaching _"Seminar in CS"_, a course that covers recent advances in Automated Software Engineering and Program Analysis. I am also teaching the course _"Reinforcement Learning"_ for the _Diplomatura Superior en Inteligencia Artificial_ programme. 
 
