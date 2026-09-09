@@ -28,8 +28,10 @@ My main research interests lie in the field of Software Engineering, in particul
 
 #### Current and upcoming service
 
-* Coordinator of the Informatics, Electronics and Communications Commission at [Argentina’s National Agency for the Promotion of Research, Technological Development and Innovation (Agencia I+D+i)](https://www.argentina.gob.ar/ciencia/agencia)
 * Associate Editor of [IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts) 
+* Program Co-Chair of the Posters Track of the [International Conference on Software Testing, Verification and Validation ICST 2027](https://conf.researchr.org/track/icst-2027/icst-2027-posters)
+* Program Committee member for the [International Conference on the Foundations of Software Engineering FSE 2027](https://conf.researchr.org/home/fse-2027) (main research track)
+* Program Committee member for the Research Track of the [International Conference on Software Testing, Verification and Validation ICST 2027](https://conf.researchr.org/home/icst-2027)
 * Program Committee member for the [Ibero-American Conference on Software Engineering CIbSE 2026](https://conf.researchr.org/home/cibse-2026) (main track)
 * Program Committee member for the Research Track of the [International Conference on Software Testing, Verification and Validation ICST 2026](https://conf.researchr.org/home/icst-2026)
 * Program Committee member for the [International Symposium on Software Testing and Analysis ISSTA 2026](https://conf.researchr.org/home/issta-2026) (main research track)
