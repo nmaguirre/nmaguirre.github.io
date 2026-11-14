@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-09-26
+date: 2026-08-10
 inline: true
 ---
 
-The research paper *“Search-based Inference of Class Invariants: How far can  Simulated Annealing take us?"* (by J.M. Copia, F. Molina, A. Gorla, N. Aguirre and P. Ponzio) has been accepted for publication at the [17th Symposium on Search-Based Software Engineering SSBSE 2025](https://conf.researchr.org/home/ssbse-2025).
+The paper *“SAT-based Consistency Checking for Structural and Behavioral SysML v2 Models"* (by N. Aguirre, D. Garbervetsky, S. Uchitel, T. Yue and M. Zhang) has been accepted for publication at the [International Colloquium on Theoretical Aspects of Computing](https://ictac2026.github.io).
